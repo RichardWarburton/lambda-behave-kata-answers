@@ -5,7 +5,7 @@
   <artifactId>lambda-behave-examples</artifactId>
   <packaging>jar</packaging>
   <version>0.2-SNAPSHOT</version>
-  <name>lambda-behave-examples</name>
+  <name>lambda-behave-kata-answers</name>
   <url>http://maven.apache.org</url>
 
 <properties>
